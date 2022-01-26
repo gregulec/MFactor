@@ -1,0 +1,7 @@
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\bin\Debug\MFactor.exe.config
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\bin\Debug\MFactor.exe
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\bin\Debug\MFactor.pdb
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\obj\Debug\MFactor.csprojAssemblyReference.cache
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\obj\Debug\MFactor.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\obj\Debug\MFactor.exe
+C:\Users\Agnieszka\source\repos\MFactor\MFactor\obj\Debug\MFactor.pdb
